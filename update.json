@@ -1,0 +1,8 @@
+{
+  "beta": {
+    "versionCode": 161,
+    "versionName": "1.6.1",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Kernel-Manager/releases/download/v1.6.1/RedFox_Prism-V1.6.1-universal-release.apk",
+    "changelog": "built-in updater test"
+  }
+}
