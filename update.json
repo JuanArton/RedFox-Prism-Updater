@@ -1,8 +1,8 @@
 {
   "beta": {
-    "versionCode": 166,
-    "versionName": "1.6.6",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.6/RedFox_Prism-V1.6.6-universal-release.apk",
-    "changelog": "built-in updater test"
+    "versionCode": 167,
+    "versionName": "1.6.7",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.7/RedFox_Prism-V1.6.7-universal-release.apk",
+    "changelog": "- Fix settings screen can't be scrolled"
   }
 }
