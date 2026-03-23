@@ -1,8 +1,8 @@
 {
   "beta": {
-    "versionCode": 163,
-    "versionName": "1.6.3",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.3/RedFox_Prism-V1.6.3-universal-release.apk",
+    "versionCode": 164,
+    "versionName": "1.6.4",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.4/RedFox_Prism-V1.6.4-universal-release.apk",
     "changelog": "built-in updater test"
   }
 }
