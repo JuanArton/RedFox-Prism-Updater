@@ -1,8 +1,8 @@
 {
   "beta": {
-    "versionCode": 168,
-    "versionName": "1.6.8",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.8/RedFox_Prism-V1.6.8-universal-release.apk",
-    "changelog": "fix: minor fps monitoring bug"
+    "versionCode": 169,
+    "versionName": "1.6.9",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.9/RedFox_Prism-V1.6.9-universal-release.apk",
+    "changelog": "- fix: LiveStats unable to remember last layout mode (full layout)"
   }
 }
