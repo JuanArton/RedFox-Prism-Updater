@@ -1,8 +1,8 @@
 {
   "beta": {
-    "versionCode": 106010,
-    "versionName": "1.6.10",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.10/RedFox_Prism-V1.6.10-universal-release.apk",
-    "changelog": "- Satisfy AGP"
+    "versionCode": 106011,
+    "versionName": "1.6.11",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.11/RedFox_Prism-V1.6.11-universal-release.apk",
+    "changelog": "- Rework settings screen (WIP)\n- Disable force auto start service\n- Resource and process optimisation"
   }
 }
