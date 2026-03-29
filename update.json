@@ -1,8 +1,8 @@
 {
   "beta": {
-    "versionCode": 106014,
-    "versionName": "1.6.14-beta",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.14-beta/RedFox_Prism-V1.6.14-beta-universal-release.apk",
-    "changelog": "- Redesign settings screen and and implement control panel screen\n- Prevent update dialog shown after ignored\n- Redesign update channel selection UI"
+    "versionCode": 106015,
+    "versionName": "1.6.15-beta",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.15-beta/RedFox_Prism-V1.6.15-beta-universal-release.apk",
+    "changelog": "- Add app version to update changelog"
   }
 }
