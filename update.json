@@ -1,9 +1,9 @@
 {
   "beta": {
-    "versionCode": 106016,
-    "versionName": "1.6.16-beta",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.16-beta/RedFox_Prism-V1.6.16-beta-universal-release.apk",
-    "changelog": "- Make way for encrypted beta build",
-    "encrypted": false
+    "versionCode": 106017,
+    "versionName": "1.6.17-beta",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.17-beta/RedFox_Prism-V1.6.17-beta-universal-release.apk.enc",
+    "changelog": "- Encrypted beta build test",
+    "encrypted": true
   }
 }
