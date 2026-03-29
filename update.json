@@ -3,7 +3,7 @@
     "versionCode": 106021,
     "versionName": "1.6.21-beta",
     "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.21-beta/RedFox_Prism-V1.6.21-beta-universal-release.apk.enc",
-    "changelog": "- Daemon: Bring back service auto start\n- Added open source license page ",
+    "changelog": "- Daemon: Bring back service auto start\n- Added open source license page",
     "encrypted": true
   }
 }
