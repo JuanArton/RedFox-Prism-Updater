@@ -5,5 +5,12 @@
     "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.6.24-beta/RedFox_Prism-V1.6.24-beta-universal-release.apk.enc",
     "changelog": "- Added prebuilt profile\n- Migrate to libxposed 101 (please use vector!)\n- Implement update blocker",
     "encrypted": true
+  },
+  "stable": {
+    "versionCode": 107000,
+    "versionName": "1.7.0-stable",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.0-stable/RedFox_Prism-V1.7.0-stable-universal-release.apk",
+    "changelog": "- BuiltIn updater stable release test",
+    "encrypted": false
   }
 }
