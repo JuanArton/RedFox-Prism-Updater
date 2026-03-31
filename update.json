@@ -10,7 +10,7 @@
     "versionCode": 107000,
     "versionName": "1.7.0-stable",
     "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.0-stable/RedFox_Prism-V1.7.0-stable-universal-release.apk",
-    "changelog": "- BuiltIn updater stable release test",
+    "changelog": "- Release 1.7.0",
     "encrypted": false
   }
 }
