@@ -7,10 +7,10 @@
     "encrypted": true
   },
   "stable": {
-    "versionCode": 107001,
-    "versionName": "1.7.1-hotfix",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.1-hotfix/RedFox_Prism-V1.7.1-hotfix-universal-release.apk",
-    "changelog": "- Fix unrestorable backup on HyperOS",
+    "versionCode": 107005,
+    "versionName": "1.7.5-stable",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.5-stable/RedFox_Prism-V1.7.5-stable-universal-release.apk",
+    "changelog": "- Ignore SystemUI from per-app profiler\n- Optimise service to reduce battery usage",
     "encrypted": false
   }
 }
