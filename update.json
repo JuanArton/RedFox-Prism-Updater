@@ -1,9 +1,9 @@
 {
   "beta": {
-    "versionCode": 107004,
-    "versionName": "1.7.4-beta",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.4-beta/RedFox_Prism-V1.7.4-beta-universal-release.apk.enc",
-    "changelog": "- Massive power/battery optimisation",
+    "versionCode": 107007,
+    "versionName": "1.7.7-hotfix",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.7-hotfix/RedFox_Prism-V1.7.7-hotfix-universal-release.apk.enc",
+    "changelog": "- Add option to hide battery stats info in notification",
     "encrypted": true
   },
   "stable": {
