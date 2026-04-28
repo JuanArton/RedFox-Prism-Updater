@@ -1,9 +1,9 @@
 {
   "beta": {
-    "versionCode": 107008,
-    "versionName": "1.7.8-beta",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.8-beta/RedFox_Prism-V1.7.8-beta-universal-release.apk.enc",
-    "changelog": "⚠️⚠️⚠️ IMEDIATE REBOOT REQUIRED ⚠️⚠️⚠️\n- Fix top app monitoring failed to recognise certain apps (daemon side)\n- Implement kill app when removed from recent task/menu (xposed)",
+    "versionCode": 107009,
+    "versionName": "1.7.9-beta",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.9-beta/RedFox_Prism-V1.7.9-beta-universal-release.apk.enc",
+    "changelog": "- Fixed resident app not working in latest QPR2\n- Fixed newly installed app not detected in profiler\n- Resource optimisation",
     "encrypted": true
   },
   "stable": {
