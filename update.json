@@ -7,10 +7,10 @@
     "encrypted": true
   },
   "stable": {
-    "versionCode": 107006,
-    "versionName": "1.7.6-hotfix",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.6-hotfix/RedFox_Prism-V1.7.6-hotfix-universal-release.apk",
-    "changelog": "- Fix app crash when toggling lock sysfs node ",
+    "versionCode": 107015,
+    "versionName": "1.7.15-preview",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.15-preview/RedFox_Prism-V1.7.15-preview-universal-release.apk",
+    "changelog": "- Fixed multiple bug\n- Introduced kill on swip (xposed)\n- Introduced new live stats monitoring layout\n- Resource optimisation",
     "encrypted": false
   }
 }
