@@ -7,10 +7,10 @@
     "encrypted": true
   },
   "stable": {
-    "versionCode": 107016,
-    "versionName": "1.7.16-preview",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.7.16-preview/RedFox_Prism-V1.7.16-preview-universal-release.apk",
-    "changelog": "- Fix bug on device with more than 3 cluster where last cluster can't be tuned",
+    "versionCode": 108000,
+    "versionName": "1.8.0-stable",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.8.0-stable/RedFox_Prism-V1.8.0-stable-universal-release.apk",
+    "changelog": "- Fix app crash when toggling lock sysfs node\n- Add option to hide battery stats info in notification\n- Fix top app monitoring failed to recognise certain apps (daemon side)\n- Implement kill app when removed from recent task/menu (xposed)\n- Fixed resident app not working in latest qpr2\n- Fixed newly installed app not detected in profiler\n- Resource optimisation\n- Fix null top app in notification\n- Added new live stats monitoring layout\n- Fix bug on device with more than 3 cluster where last cluster can't be tuned\n- Added recent app lock\n- Connect governor parameter to profile\n- Improved battery data collection\n- Fix premium feature sometime doesnt work after screen lock\n- Add import license button\n- Drop accessibility service requirement in landing page\n- Postpone apply profile by profiler while editing profile\n- Properly handle profile when applyOnBoot disabled\n- Added toast on profile change (disabled by default)\n- Fixed delayed profile change\n- Improve fps monitoring\n- Added battery session detail\n- Initial A13 support",
     "encrypted": false
   }
 }
