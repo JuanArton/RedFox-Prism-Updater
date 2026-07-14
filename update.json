@@ -7,10 +7,10 @@
     "encrypted": true
   },
   "stable": {
-    "versionCode": 109000,
-    "versionName": "1.9.0-stable",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.9.0-stable/RedFox_Prism-V1.9.0-stable-universal-release.apk",
-    "changelog": "- Added DPI and resolution changer\n- Fix idle charging not working in hyperos (Poco F6 device)\n- Fix conditional profile not working if per-app profiler disabled",
+    "versionCode": 110001,
+    "versionName": "1.10.1-stable",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.10.1-stable/RedFox_Prism-V1.10.1-stable-universal-release.apk",
+    "changelog": "- We are now on Play Store 🎉\n- Removed the built-in in-app updater\n- Added a floating bottom navigation bar\n- Added a highly customizable glassmorphic theme\n- Improved frosted theme visibility\n- Merged Doze App and Kill on Swipe into a single option\n- Fixed Xposed injection status detection\n- Added a changelog dialog after a successful update\n- Fixed battery statistics being empty after clearing the app's data\n- Fixed automated profiles not working after restoring a backup",
     "encrypted": false
   }
 }
