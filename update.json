@@ -1,9 +1,9 @@
 {
   "beta": {
-    "versionCode": 110002,
-    "versionName": "1.10.2-beta",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.10.2-beta/RedFox_Prism-V1.10.2-beta-universal-release.apk.enc",
-    "changelog": "- Added script manager (highly experimental)",
+    "versionCode": 110005,
+    "versionName": "1.10.5-stable",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.10.5-stable/RedFox_Prism-V1.10.5-stable-universal-release.apk.enc",
+    "changelog": "- Added a script manager feature\n- Added support for the Xiaomi Poco X7\n- Added support for more MediaTek devices\n- Added an option to completely disable battery monitoring\n- Fixed minor bugs\n- Improved UI consistency",
     "encrypted": true
   },
   "stable": {
