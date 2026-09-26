@@ -7,10 +7,10 @@
     "encrypted": true
   },
   "stable": {
-    "versionCode": 112005,
-    "versionName": "1.12.5-stable",
-    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.12.5-stable/RedFox_Prism-V1.12.5-stable-universal-release.apk",
-    "changelog": "- Added clipboard manager (Xposed)\n- Throttled battery data polling when the screen is off\n- Improved UI consistency\"\n- Fixed time-based background killer not working after boot\n- Filtered out unsupported thermal modes",
+    "versionCode": 112006,
+    "versionName": "1.12.6-hotfix",
+    "downloadUrl": "https://github.com/JuanArton/RedFox-Prism-Updater/releases/download/v1.12.6-hotfix/RedFox_Prism-V1.12.6-hotfix-universal-release.apk",
+    "changelog": "- Fixed unable to change thermal mode (related to filtered out unsupported thermal)",
     "encrypted": false
   }
 }
